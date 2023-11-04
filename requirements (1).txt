@@ -1,8 +1,0 @@
-Flask
-gunicorn
-<<<<<<< HEAD
-requests
-=======
-request
-
->>>>>>> 6654ab724fbd95fe1a20e8d2e0be7d1a5857eaae
